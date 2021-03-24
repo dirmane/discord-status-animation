@@ -1,0 +1,42 @@
+{
+  "token": "MzAxNjQ0MDc0Mzc5NjQwODMy.X7_tTw.NPO73BREhzbmkBTrHZJzA4-p074",
+  "offline": "{}",
+  "animation": [
+    {
+      "text": "{‒‒‒‒‒‒‒‒‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{⊞‒‒‒‒‒‒‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒⊞‒‒‒‒‒‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒‒⊞‒‒‒‒‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒‒‒⊞‒‒‒‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒‒‒‒⊞‒‒‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒‒‒‒‒‒⊞‒‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒‒‒‒‒‒‒⊞‒}",
+      "timeout": 3000
+    },
+    {
+      "text": "{‒‒‒‒‒‒‒‒⊞}",
+      "timeout": 3000
+    }
+  ]
+}
